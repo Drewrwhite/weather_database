@@ -1,0 +1,215 @@
+[
+	{
+		"Name": "Portland, OR",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=45.5118&lon=-122.6756"
+	},
+	{
+		"Name": "San Diego, CA",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=32.7157&lon=-117.1617"
+	},
+	{
+		"Name": "Duluth, MN",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=46.788&lon=-92.0998"
+	},
+	{
+		"Name": "Minneapolis, MN",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=44.979&lon=-93.2649"
+	},
+	{
+		"Name": "Salt Lake City, UT",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?zoneid=UTZ105&zflg=1"
+	},
+	{
+		"Name": "Denver, CO",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=39.74&lon=-104.992"
+	},
+	{
+		"Name": "San Francisco, CA",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=37.7771&lon=-122.4197"
+	},
+	{
+		"Name": "New York City, NY",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=40.7143&lon=-74.006"
+	},
+	{
+		"Name": "Portland, ME",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=43.6592&lon=-70.2567"
+	},
+	{
+		"Name": "Seattle, WA",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=47.6036&lon=-122.3294"
+	},
+	{
+		"Name": "Baltimore, MD",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=39.2906&lon=-76.6093"
+	},
+	{
+		"Name": "Austin, TX",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=30.2676&lon=-97.743"
+	},
+	{
+		"Name": "Atlanta, GA",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=33.7483&lon=-84.3911"
+	},
+	{
+		"Name": "Las Vegas, NV",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=36.1719&lon=-115.14"
+	},
+	{
+		"Name": "Chicago, IL",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=41.8843&lon=-87.6324"
+	},
+	{
+		"Name": "Orlando, FL",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=28.5382&lon=-81.3774"
+	},
+	{
+		"Name": "St. Louis, MO",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=38.6278&lon=-90.1996"
+	},
+	{
+		"Name": "Bozeman, MT",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=45.6793&lon=-111.0322"
+	},
+	{
+		"Name": "Boise, ID",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=43.6076&lon=-116.1934"
+	},
+	{
+		"Name": "Los Angeles, CA",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=34.0536&lon=-118.2454"
+	},
+	{
+		"Name": "Salem, OR",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=44.9333&lon=-123.0438"
+	},
+	{
+		"Name": "Jackson, WY",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=43.4802&lon=-110.7624"
+	},
+	{
+		"Name": "Philadelphia, PA",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=39.9522&lon=-75.1622"
+	},
+	{
+		"Name": "Detroit, MI",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=42.3317&lon=-83.048"
+	},
+	{
+		"Name": "Columbus, OH",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=39.962&lon=-83.0027"
+	},
+	{
+		"Name": "Topeka, KS",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=39.0493&lon=-95.6712"
+	},
+	{
+		"Name": "Phoenix, AZ",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=33.4483&lon=-112.0758"
+	},
+	{
+		"Name": "Tucson, AZ",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=32.2218&lon=-110.9698"
+	},
+	{
+		"Name": "Houston, TX",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=29.7608&lon=-95.3695"
+	},
+	{
+		"Name": "Raleigh, NC",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=35.7855&lon=-78.6427"
+	},
+	{
+		"Name": "Columbia, SC",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=33.9988&lon=-81.0454"
+	},
+	{
+		"Name": "Santa Fe, NM",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=35.6918&lon=-105.9382"
+	},
+	{
+		"Name": "Helena, MT",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=46.5898&lon=-112.0206"
+	},
+	{
+		"Name": "Bismarck, ND",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=46.8083&lon=-100.7837"
+	},
+	{
+		"Name": "Pierre, SD",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=44.3692&lon=-100.3499"
+	},
+	{
+		"Name": "Lincoln, NE",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=40.8136&lon=-96.7073"
+	},
+	{
+		"Name": "Oklahoma City, OK",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=35.472&lon=-97.5211"
+	},
+	{
+		"Name": "Des Moines, IA",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=41.5898&lon=-93.6154"
+	},
+	{
+		"Name": "Jefferson City, MO",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=38.5775&lon=-92.1778"
+	},
+	{
+		"Name": "Little Rock, AR",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=34.7487&lon=-92.2748"
+	},
+	{
+		"Name": "Baton Rouge, LA",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=30.4434&lon=-91.1866"
+	},
+	{
+		"Name": "Jackson, MS",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=32.299&lon=-90.1804"
+	},
+	{
+		"Name": "Montgomery, AL",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=32.3802&lon=-86.3"
+	},
+	{
+		"Name": "Nashville, TN",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=36.1678&lon=-86.7782"
+	},
+	{
+		"Name": "Indianapolis, IN",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=39.7669&lon=-86.1501"
+	},
+	{
+		"Name": "Madison, WI",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=43.0731&lon=-89.3864"
+	},
+	{
+		"Name": "Frankfort, KY",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=38.1951&lon=-84.8787"
+	},
+	{
+		"Name": "Richmond, VA",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=37.5407&lon=-77.4337"
+	},
+	{
+		"Name": "Trenton, NJ",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=40.2179&lon=-74.7594"
+	},
+	{
+		"Name": "Montpelier, VT",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=44.2603&lon=-72.5763"
+	},
+	{
+		"Name": "Concord, NH",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=43.2073&lon=-71.5366"
+	},
+	{
+		"Name": "Dover, DE",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=39.158&lon=-75.5247"
+	},
+	{
+		"Name": "Charleston, WV",
+		"NWS_URL": "https://forecast.weather.gov/MapClick.php?lat=38.3502&lon=-81.6389"
+	}
+
+]

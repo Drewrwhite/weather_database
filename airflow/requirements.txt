@@ -1,0 +1,8 @@
+beautifulsoup4
+google-cloud-bigquery
+pandas
+pyarrow
+requests
+google-auth
+google-auth-oauthlib
+google-cloud-bigquery-storage==2.6.0
