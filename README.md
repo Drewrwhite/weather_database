@@ -1,5 +1,7 @@
 ## National Weather Service Web Scrape and ETL
 #### By [Drew White](https://www.linkedin.com/in/drew-riley-white/)
+
+This project is part of a larger project located here: [Team Week 3](https://github.com/Drewrwhite/team-week3)
 ## Contents
 [Summary](#summary) |
 [Technologies Used](#technologies-used) |
